@@ -1,6 +1,8 @@
 **Simple Image Editor**
 Welcome to the Simple Image Editor! This web-based application allows users to apply various filters and adjustments to their images directly in the browser. Built with HTML, CSS, and JavaScript, it offers an intuitive interface for quick and easy image editing.
 
+![Screenshot 2024-06-27 220105](https://github.com/eaclix/Simple-Image-Editor/assets/129897503/6f2ad855-fee4-4787-9427-e9a51591f757)
+
 **Benefits**
 User-Friendly Interface: Easy to navigate, making image editing accessible for everyone.
 No Installation Required: Being a web application, there's no need for any installation. Just open the website and start editing.
